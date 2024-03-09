@@ -1,0 +1,15 @@
+path: "../datasets/truck-dataset"
+train: 'images/train'
+val: 'images/val'
+
+
+nc: 1
+names:
+  0: truck
+
+roboflow:
+  workspace: jacob-solawetz
+  project: microsoft-coco
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jacob-solawetz/microsoft-coco/dataset/2
