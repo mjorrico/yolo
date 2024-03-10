@@ -1,5 +1,6 @@
 yolo/
 yolo.tar.gz
+datasets.tar.gz
 datasets/ambulance-dataset/*
 datasets/truck-dataset/*
 *.jpg
