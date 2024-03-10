@@ -1,2 +1,11 @@
 yolo/
-*.tar.gz
+yolo.tar.gz
+datasets/ambulance-dataset/*
+datasets/truck-dataset/*
+*.jpg
+*.png
+*.csv
+yolov8?.pt
+last.pt
+.vscode
+.ipynb_checkpoints
