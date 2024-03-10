@@ -9,3 +9,5 @@ yolov8?.pt
 last.pt
 .vscode
 .ipynb_checkpoints
+prediction_input/
+prediction_output/

@@ -20,8 +20,6 @@ def plot_box(image, bbox, labels):
         y_max = int(y2 * h)
 
         linewidth = max(2, int(w / 300))
-
-        # print(x1, y1, x2, y2, h, w)
         cv2.rectangle(image, (x_min, y_min), (x_max, y_max), color=(255, 0, 0), thickness=linewidth)
 
     return image
