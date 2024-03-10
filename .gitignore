@@ -12,3 +12,6 @@ last.pt
 .ipynb_checkpoints
 prediction_input/
 prediction_output/
+__pycache__/
+.venv/
+venv/
