@@ -6,9 +6,9 @@ Run the following command to perform inference using photos and videos contained
 
     $ python3 infer.py <source_dir> <destination_dir> <truck|ambulance>
 
-Example: The following command will perform inference on all media files inside `my_images` and save outputs in `my_images_processed` using `truck` YOLOv8 model.
+Example: The following command will perform inference on all media files inside `input-sample` and save outputs in `my_images_processed` using `truck` YOLOv8 model.
 
-    $ python3 infer.py my_images my_images_processed truck
+    $ python3 infer.py input-sample my_images_processed truck
 
 ## Training
 
