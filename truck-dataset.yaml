@@ -1,4 +1,4 @@
-path: "/root/yolo/datasets/truck-dataset"
+path: "FullPathTo/datasets/truck-dataset"
 train: 'images/train'
 val: 'images/val'
 

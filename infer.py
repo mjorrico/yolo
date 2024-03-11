@@ -12,7 +12,6 @@ else:
     source_files = os.path.join(source_dir, "*")
     print(f"Reading files from {source_dir}")
     print(f"Writing output to {destination_dir}")
-    print(source_files)
 
 videoformats = ["mp4", "mkv", "avi"]
 imageformats = ["jpg", "png"]
