@@ -5,13 +5,14 @@ datasets/ambulance-dataset/*
 datasets/truck-dataset/*
 *.jpg
 *.png
+*.mp4
 *.csv
 yolov8?.pt
 last.pt
 .vscode
 .ipynb_checkpoints
-prediction_input/
-prediction_output/
+input-sample/
+output-sample/
 __pycache__/
 .venv/
 venv/

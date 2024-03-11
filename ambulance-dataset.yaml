@@ -1,9 +1,11 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+path: "/root/yolo/datasets/ambulance-dataset"
+train: 'images/train'
+val: 'images/val'
 
 nc: 2
-names: ['0', 'ambulance']
+names:
+  0: truck
+  1: ambulance
 
 roboflow:
   workspace: ambulance-k0z3x
